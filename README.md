@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Keyrus**
 
-- 🌱 I’m currently learning **React, Typescript and JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **React and Frontend in general**
 
