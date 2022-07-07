@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **React and Frontend in general**
+- 💬 Ask me about **Frontend and Mobile Development**
 
 - 📫 How to reach me **gustavobrito.dll@gmail.com**
 
